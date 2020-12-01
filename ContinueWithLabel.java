@@ -1,7 +1,7 @@
 public class ContinueWithLabel {
     public static void main(String[] args) {
         char[] rijec={'a','d','i'};
-        String recenica="trazim svaki put kad se adi nasmijao. adi je zaista zabavan tip.";
+        String recenica="trazim koliko se puta adi nasmijao. adi je zaista zabavan tip.";
         char [] recenicaNiz=recenica.toCharArray();
         int i,j;
        int brojac=0;

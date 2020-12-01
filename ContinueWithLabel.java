@@ -25,7 +25,7 @@ public class ContinueWithLabel {
                }
                j=0;
                 i++;
-                if(i>=64){
+                if(i>=62){
                     break lab;
                 }
            }
